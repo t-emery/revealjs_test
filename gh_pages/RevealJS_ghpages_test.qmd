@@ -1,0 +1,14 @@
+---
+title: "Hosting RevealJS on GitHub Pages:  A Test"
+author: "Teal Emery"
+format: revealjs
+editor: visual
+---
+
+# Introduction
+
+-   I'm trying to figure out how to host a RevealJS Quarto presentation on Github pages.
+
+# Page 2
+
+-   First, I'm trying out directions from this [blog post](https://annaken.github.io/hosting-revealjs-presentation-github-pages/).
